@@ -61,10 +61,7 @@ We welcome ideas, feedback, and contributions!
 - Open issues for bugs/feature requests  
 - Submit PRs with improvements  
 
----
-
-## 📜 License  
-MIT License – free to use, modify, and share.  
+---  
 
 ---
 
